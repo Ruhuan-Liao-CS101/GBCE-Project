@@ -1,0 +1,26 @@
+h1 {text-shadow: 5px 5px 2px blue;
+    opacity: 50%;
+    font-size: 4em;
+    font-family: sans-serif;}
+
+#notice { width: 80%;
+          text-align: center;}
+
+.headline { text-decoration-line: underline;
+            text-decoration-style: dotted;
+            color: darkred;
+            margin: 10px 10px;}
+
+#feature {font-size: small;
+          font-family: Arial;
+          color: red;
+          background-color: white;
+          width: 80%;
+          box-shadow: 2px 2px 5px blue;
+          margin: 10px 10px;}
+
+footer { background-color: lightblue;
+         font-family: Arial, Helvetica, sans-serif;
+         color: darkblue;
+         padding: 10px;
+         border:2px, dashed, darkblue;}
